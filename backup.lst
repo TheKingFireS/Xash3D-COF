@@ -1,0 +1,33 @@
+//=======================================================================
+//			Copyright XashXT Group 2007 ©
+//			list with backup directories
+//=======================================================================
+
+// global stuff
+xash.dsw
+debug.bat
+backup.lst
+backup.bat
+release.bat
+change.log
+gnu.txt
+
+cl_dll\
+cl_dll\hl\
+common\
+dlls\
+game_shared\
+game_launch\
+engine\
+engine\client\
+engine\client\vgui\
+engine\server\
+engine\common\
+engine\common\imagelib\
+engine\common\soundlib\
+pm_shared\
+mainui\
+utils\
+utils\vgui\
+utils\vgui\include\
+utils\vgui\lib\win32_vc6\
