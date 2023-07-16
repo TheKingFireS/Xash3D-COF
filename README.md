@@ -13,3 +13,5 @@ Unfortunely, there is no archived 1.1, 1.3, 1.35, 1.4 and 1.5 patches. Probably 
 
 ## Running
 Recommended to run batch files.
+## Disable forced mouse acceleration
+edit any .bat files, add these command-line option ``-noforcemparms -noforcemaccel -noforcemspd``
