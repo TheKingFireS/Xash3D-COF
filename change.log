@@ -298,7 +298,7 @@ Server: fix some bugs with unlag system
 
 build 3886
 
-Client: fixup processing russian leter 'ÿ' in READ_STRING()
+Client: fixup processing russian leter 'Ã¿' in READ_STRING()
 Client: fixup russian leters support in VGUI
 Engine: add support for Arguire QBSP 'broken' clipnodes  (engine is need to rebuilt with broken binary compatibility)
 Engine: add support of Darkplaces BSP2 format (engine is need to rebuilt with broken binary compatibility)
@@ -767,7 +767,7 @@ Server: rewrite MOVETYPE_STEP and MOVETYPE_PUSHSTEP physics
 Server: allow to MOVETYEP_PUSH blocking by dead bodies
 Server: fix bug with MOVETYPE_FOLLOW
 Server: added TriAPI through Server_PhysicsInterface for debug purposes
-GameUI: replace broken letter '¸' with 'å'
+GameUI: replace broken letter 'Â¸' with 'Ã¥'
 GameUI: don't draw logo.avi for mods without this file in gamedir
 GameUI: fix buttons loader bug
 GameUI: enable scissor for all ScrollList menus
@@ -825,7 +825,7 @@ Render: added some new internal textures that using by Xash-Mod 0.5
 Render: fix reflection for Glow-Sprites and follow beams
 Studio: fix poly-counter for studio models
 Engine: add support for userconfig
-Engine: allow letter '¸' in console and chat-mode
+Engine: allow letter 'Â¸' in console and chat-mode
 Engine: fix REG_USER_MSG for messages that registering in-game
 Server: clear savedir when new game is started
 GameUI: loading maps.lst from basedir while mod doesn't contain multiplayer maps
