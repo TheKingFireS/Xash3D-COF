@@ -239,7 +239,7 @@ typedef struct gameinfo_s
 	int		max_edicts;	// min edicts is 600, max edicts is 4096
 	int		max_tents;	// min temp ents is 300, max is 2048
 	int		max_beams;	// min beams is 64, max beams is 512
-	int		max_particles;	// min particles is 4096, max particles is 32768
+	int		max_particles;	// min particles is 4096, max particles is 131072
 } gameinfo_t;
 
 typedef struct sysinfo_s
