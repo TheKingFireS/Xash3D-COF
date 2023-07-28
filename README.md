@@ -12,6 +12,6 @@ Recommended to run batch files.
 edit any .bat files, add these command-line option ``-noforcemparms -noforcemaccel -noforcemspd``
 ## Lost files
 1.1, 1.3, 1.35, 1.4 and 1.5 patches \
-Cry of Fear - SDK v1.0 - CryOfFear_SDK_v1.0.rar? \
+Cry of Fear - SDK - CryOfFear_SDK.rar \
 Cry of Fear - SDK v1.1 - CryOfFear_SDK_v1.1.rar \
 Cry of Fear - SDK v1.2 - CryOfFear_SDK_1.2.rar
