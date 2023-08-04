@@ -15,7 +15,7 @@ GNU General Public License for more details.
 
 #include <windows.h>
 
-#define GAME_PATH	"valve"	// default dir to start from
+#define GAME_PATH	"CryOfFear"	// default dir to start from
 
 #ifdef WIN32
 // enable NVIDIA High Performance Graphics while using Integrated Graphics.
