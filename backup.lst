@@ -10,7 +10,7 @@ backup.lst
 backup.bat
 release.bat
 change.log
-gnu.txt
+LICENSE
 
 cl_dll\
 cl_dll\hl\
