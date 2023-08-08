@@ -11,6 +11,9 @@ call vcvars32
 %MSDEV% engine/engine.dsp %CONFIG%"engine - Win32 Release" %build_target%
 if errorlevel 1 set BUILD_ERROR=1
 
+%MSDEV% game_launch/game.dsp %CONFIG%"game - Win32 Release" %build_target%
+if errorlevel 1 set BUILD_ERROR=1
+
 %MSDEV% mainui/mainui.dsp %CONFIG%"mainui - Win32 Release" %build_target%
 if errorlevel 1 set BUILD_ERROR=1
 
@@ -34,6 +37,7 @@ goto done
 
 rem //delete log files
 if exist engine\engine.plg del /f /q engine\engine.plg
+if exist game_launch\game.plg del /f /q game_launch\game.plg
 if exist mainui\mainui.plg del /f /q mainui\mainui.plg
 
 echo
