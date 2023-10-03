@@ -16,6 +16,10 @@ VGUI:	- a VGUI implementation code in xash.dll
 Memory:	- a memory manager in xash.dll
 Physic:	- a server physics code in xash.dll
 
+build 4529-COF-v0.02
+
+Engine: applied FWGS/xash3d-fwgs@e017b91 and FWGS/xash3d-fwgs@8293bc9 patches.
+
 build 4529-COF
 
 Network: downgraded net_encode.c to 22 Feb 2019(bd1688abc0405ab26eeb5954b86e1eeace2c646b) due to missing waters reflection.
