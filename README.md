@@ -5,7 +5,9 @@ It's standalone, doesn't required HL1 resource.
 Cry of Fear 1.0 installer: https://www.moddb.com/games/cry-of-fear/downloads/cry-of-fear-10-original-installer
 ### Patches
 Cry of Fear 1.2 Patch: https://web.archive.org/web/20120504121427/http://www.cry-of-fear.com/patches/patch.exe \
-Cry of Fear 1.55 Patch: https://web.archive.org/web/20160315205104/http://www.cry-of-fear.com/patches/patch.exe
+Mirror: https://github.com/TheKingFireS/Xash3D-COF/releases/download/v0.01/CoFPatchV1.2.exe \
+Cry of Fear 1.55 Patch: https://web.archive.org/web/20160315205104/http://www.cry-of-fear.com/patches/patch.exe \
+Mirror: https://github.com/TheKingFireS/Xash3D-COF/releases/download/v0.01/CoFPatchV1.55.exe
 ## Running
 Recommended to run batch files.
 ## Disable forced mouse acceleration
